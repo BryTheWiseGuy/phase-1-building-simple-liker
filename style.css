@@ -37,6 +37,7 @@ article.media-post > footer {
 
 article.media-post > footer ul {
   list-style-type: none;
+  cursor: pointer;
 }
 
 #modal {
@@ -59,6 +60,7 @@ article.media-post > footer ul {
 
 .activated-heart {
   color: red;
+  cursor: pointer;
 }
 
 .hidden {
